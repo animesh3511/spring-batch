@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="spring-batch-core-4.3.7.jar" type="JarApplication" singleton="false">
+    <option name="JAR_PATH" value="$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/4.3.7/spring-batch-core-4.3.7.jar!/" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
